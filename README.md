@@ -1,1 +1,1 @@
-# wafer bin map(WBM) defect classification
+# Wafer bin map(WBM) defect classification
